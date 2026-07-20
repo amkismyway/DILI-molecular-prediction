@@ -56,10 +56,10 @@ Molecular weight, MolLogP, TPSA, H-bond donors, H-bond acceptors, rotatable bond
 5. Logistic regression on Morgan fingerprints
 
 ## Validation
-1. Repeated stratified cross-validation
-2. Held-out stratified random split
-3. Bemis-Murcko scaffold split
-4. Pseudo-temporal split: unchanged drugs for development, new drugs for locked testing
+
+1. Held-out stratified random split
+2. Bemis-Murcko scaffold split
+3. Pseudo-temporal split using unchanged drugs for development and new drugs for locked testing
 
 Hyperparameter selection will use training data only.
 
