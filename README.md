@@ -26,11 +26,14 @@ pip install -r requirements.txt
 4. Run:
 
 python scripts/01_prepare_labels.py
-python scripts/02_fetch_pubchem.py
-python scripts/03_build_features.py
-python scripts/04_train_models.py
-python scripts/05_make_report.py
 
+python scripts/02_fetch_pubchem.py
+
+python scripts/03_build_features.py
+
+python scripts/04_train_models.py
+
+python scripts/05_make_report.py
 ## Main endpoint
 
 Most-DILI-concern versus No-DILI-concern.
