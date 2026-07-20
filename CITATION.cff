@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software using the citation below."
+title: "Molecular Prediction of Drug-Induced Liver Injury"
+type: software
+authors:
+  - family-names: "Khawaja"
+    given-names: "Abdullah"
+version: "1.0.0"
+date-released: "2026-07-20"
+repository-code: "https://github.com/amkismyway/DILI-molecular-prediction"
+license: MIT
