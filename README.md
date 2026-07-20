@@ -5,7 +5,7 @@ This repository contains the code used for the study:
 
 "Interpretable Machine Learning Prediction of Drug-Induced Liver Injury
 From Molecular Structure Using FDA DILIrank 2.0"
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21461204.svg)](https://doi.org/10.5281/zenodo.21461204)
 ## Data sources
 
 - FDA DILIrank 2.0
@@ -14,7 +14,7 @@ From Molecular Structure Using FDA DILIrank 2.0"
 
 Raw source data are not redistributed in this repository.
 Instructions for downloading them are provided below.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21461204.svg)](https://doi.org/10.5281/zenodo.21461204)
+
 
 ## Reproduction
 
