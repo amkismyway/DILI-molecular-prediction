@@ -5,7 +5,8 @@ type: software
 authors:
   - family-names: "Khawaja"
     given-names: "Abdullah"
-version: "1.0.0"
+version: "1.0.2"
 date-released: "2026-07-20"
 repository-code: "https://github.com/amkismyway/DILI-molecular-prediction"
+doi: "10.5281/zenodo.21461204"
 license: MIT
